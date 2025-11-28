@@ -1,4 +1,3 @@
-
 # PRODIGY_DS_01 – Task 1: Population Data Visualization
 
 ## 📌 Objective
@@ -45,16 +44,16 @@ The dataset used is the **World Bank Population Dataset**, containing population
 
 ---
 
-## 📁 Files Included
+## 📂 Files Included
 
-1. **Task1_Population_Visualization.ipynb** – Jupyter Notebook containing all analysis & visualizations.
-2. **top 20 countries by total population in 2023.png** – Bar chart for 2023 population.
-3. **Bar chat - Top 20 Population in 2024.png** – Bar chart for 2024 population.
-4. **Histogram - Distribution of Country Populations in 2024.png** – Population distribution histogram.
-5. **Line Chart-Population Trends Over Time.png** – Line chart showing trends for selected countries.
-6. **Dataset** – World Bank Population Dataset (SP.POP.TOTL).
-7. **README.md** – Project documentation.
-
+| File Name | Description |
+|----------|-------------|
+| **Task1_Population_Visualization.ipynb** | Full source code for data loading, cleaning, and visualization |
+| **bar_chart_2023.png** | Bar chart for 2023 top populations |
+| **histogram_2024.png** | Population distribution histogram |
+| **bar_chart_2024.png** | Bar chart for 2024 top populations |
+| **population_trends.png** | Line chart showing long-term growth |
+| **README.md** | Full explanation of analysis |
 
 ---
 
@@ -71,4 +70,5 @@ This task demonstrates how basic visualizations can reveal global demographic pa
 
 ## 👨‍💻 Author
 **Sethuraman Shanmugasundaram**  
-Data Science Intern – Prodigy InfoTech
+Data Science Intern – Prodigy InfoTech  
+
